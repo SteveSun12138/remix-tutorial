@@ -1,7 +1,7 @@
 # Remix tutorial
 
 
-Following the tutorial [Remix tutorial](https://remix.run/stacks](https://remix.run/docs/en/v1/tutorials/blog).
+Following the tutorial [Remix tutorial](https://remix.run/docs/en/v1/tutorials/blog).
 
 
 ## Quickstart
